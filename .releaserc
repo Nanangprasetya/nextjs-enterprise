@@ -26,7 +26,7 @@
           "writerOpts": { "commitsSort": ["subject", "scope"] },
         },
       ],
-      ["@semantic-release/git", { "assets": ["CHANGELOG"] }],
-      ["@semantic-release/changelog", { "changelogFile": "CHANGELOG" }],
+      ["@semantic-release/git", { "assets": ["CHANGELOG.md"] }],
+      ["@semantic-release/changelog", { "changelogFile": "CHANGELOG.md" }],
     ],
 }
