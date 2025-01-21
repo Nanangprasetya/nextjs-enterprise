@@ -37,29 +37,26 @@ With this template, you get all the awesomeness you need:
 
 ## Table of Contents
 
-- [Next.js Enterprise Boilerplate](#nextjs-enterprise-boilerplate)
+- [Next.js Enterprise Boilerplate   \[!\[GitHub Actions Workflow Status\]\[check-workflow-badge\]\]\[check-workflow-badge-link\] \[!\[GitHub License\]\[github-license-badge\]\]\[github-license-badge-link\] \[!\[GitHub contributors\]\[github-contributors-badge\]\]\[github-contributors-badge-link\] \[!\[Discord\]\[discord-badge\]\]\[discord-badge-link\] \[!\[Blazity\]\[made-by-blazity-badge\]\]\[made-by-blazity-badge-link\]](#nextjs-enterprise-boilerplate---github-actions-workflow-statuscheck-workflow-badgecheck-workflow-badge-link-github-licensegithub-license-badgegithub-license-badge-link-github-contributorsgithub-contributors-badgegithub-contributors-badge-link-discorddiscord-badgediscord-badge-link-blazitymade-by-blazity-badgemade-by-blazity-badge-link)
   - [Features](#features)
   - [Table of Contents](#table-of-contents)
-  - [Getting Started](#-getting-started)
-  - [Deployment](#-deployment)
-  - [Scripts Overview](#-scripts-overview)
-  - [Coupling Graph](#-coupling-graph)
-  - [Testing](#-testing)
+  - [🎯 Getting Started](#-getting-started)
+  - [🚀 Deployment](#-deployment)
+  - [📃 Scripts Overview](#-scripts-overview)
+  - [🔗 Coupling Graph](#-coupling-graph)
+  - [🧪 Testing](#-testing)
     - [Running Tests](#running-tests)
     - [Acceptance Tests](#acceptance-tests)
     - [Smoke Testing](#smoke-testing)
-  - [Styling and Design System](#-styling-and-design-system)
+  - [🎨 Styling and Design System](#-styling-and-design-system)
     - [CVA - A New Approach to Variants](#cva---a-new-approach-to-variants)
-  - [State Management](#-state-management)
+  - [💾 State Management](#-state-management)
     - [Zustand](#zustand)
     - [Jotai](#jotai)
     - [Recoil](#recoil)
-  - [ChatGPT Code Review](#-chatgpt-code-review)
-  - [Environment Variables handling](#-environment-variables-handling)
-  - [Contribution](#-contribution)
-  - [Support](#support)
-  - [License](#-license)
-  - [Contributors](#contributors)
+  - [🤖 ChatGPT Code Review](#-chatgpt-code-review)
+  - [💻 Environment Variables handling](#-environment-variables-handling)
+  - [🤝 Contribution](#-contribution)
 
 ## 🎯 Getting Started
 
@@ -262,61 +259,3 @@ Contributions are always welcome! To contribute, please follow these steps:
 3. Make your changes, and commit them using the [Conventional Commits](https://www.conventionalcommits.org/) format.
 4. Push your changes to the forked repository.
 5. Create a pull request, and we'll review your changes.
-
-## Support
-
-If you're looking for help or simply want to share your thoughts about the project, we encourage you to join our Discord community. Here's the link: [https://blazity.com/discord](https://blazity.com/discord). It's a space where we exchange ideas and help one another. Everyone's input is appreciated, and we look forward to welcoming you.
-
-<br />
-<a href="https://discord.gg/fyWtyNKmfX" style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://discordapp.com/api/guilds/1111676875782234175/widget.png?style=banner2" alt="Blazity Discord Banner"/>
-</a>
-<br />
-
-
-## 📜 License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](./LICENSE) file.
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://bstefanski.com/"><img src="https://avatars.githubusercontent.com/u/28964599?v=4?s=100" width="100px;" alt="Bart Stefanski"/><br /><sub><b>Bart Stefanski</b></sub></a><br /><a href="https://github.com/Blazity/next-enterprise/commits?author=bmstefanski" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jjablonski-it"><img src="https://avatars.githubusercontent.com/u/51968772?v=4?s=100" width="100px;" alt="Jakub Jabłoński"/><br /><sub><b>Jakub Jabłoński</b></sub></a><br /><a href="#infra-jjablonski-it" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://neg4n.dev/"><img src="https://avatars.githubusercontent.com/u/57688858?v=4?s=100" width="100px;" alt="Igor Klepacki"/><br /><sub><b>Igor Klepacki</b></sub></a><br /><a href="https://github.com/Blazity/next-enterprise/commits?author=neg4n" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
-  </tfoot>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- Badges and links -->
-
-[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/blazity/next-enterprise/check.yml?label=check
-[github-license-badge]: https://img.shields.io/github/license/blazity/next-enterprise?link=https%3A%2F%2Fgithub.com%2FBlazity%2Fnext-enterprise%2Fblob%2Fmain%2FLICENSE
-[github-contributors-badge]: https://img.shields.io/github/contributors/blazity/next-enterprise?link=https%3A%2F%2Fgithub.com%2FBlazity%2Fnext-enterprise%2Fgraphs%2Fcontributors
-[discord-badge]: https://img.shields.io/discord/1111676875782234175?color=7b8dcd&link=https%3A%2F%2Fblazity.com%2Fdiscord
-[made-by-blazity-badge]: https://img.shields.io/badge/made_by-Blazity-blue?color=FF782B&link=https://blazity.com/
-
-[check-workflow-badge-link]: https://github.com/Blazity/next-enterprise/actions/workflows/check.yml
-[github-license-badge-link]: https://github.com/Blazity/next-enterprise/blob/main/LICENSE
-[github-contributors-badge-link]: https://github.com/Blazity/next-enterprise/graphs/contributors
-[discord-badge-link]: https://blazity.com/discord
-[made-by-blazity-badge-link]: https://blazity.com/?utm_source=nextenterprise&utm_medium=github
